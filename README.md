@@ -18,4 +18,4 @@ This repository contains basic HTML practice files created while learning web de
 The purpose of this repository is to practice HTML fundamentals and understand basic webpage structure.
 
 ## Technologies Used
-- HTML5
+- HTML
